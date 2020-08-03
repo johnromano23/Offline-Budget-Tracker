@@ -144,6 +144,7 @@ function sendTransaction(isAdding) {
     });
 }
 
+// functioning buttons
 document.querySelector("#add-btn").onclick = function () {
   sendTransaction(true);
 };
