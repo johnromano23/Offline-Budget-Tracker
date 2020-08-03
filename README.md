@@ -16,7 +16,8 @@ Heroku link: https://budget-tracker-jr.herokuapp.com/
 * Start the application by running `node server.js`
 
 ## Future Development
-I would like to design this application more dynamically. I would like to include several features and include budgeting tips. 
+* Design this application more dynamically 
+* Include several features and include budgeting tips
 
 ## License
 Licensed with MIT
