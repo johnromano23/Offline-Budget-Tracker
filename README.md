@@ -15,6 +15,9 @@ Heroku link: https://budget-tracker-jr.herokuapp.com/
 * Download all necessary dependencies by running `npm install`
 * Start the application by running `node server.js`
 
+## Future Development
+I would like to design this application more dynamically. I would like to include several features and include budgeting tips. 
+
 ## License
 Licensed with MIT
 
