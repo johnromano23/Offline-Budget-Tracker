@@ -18,3 +18,6 @@ Heroku link: https://budget-tracker-jr.herokuapp.com/
 ## License
 Licensed with MIT
 
+## Developer
+This application was developed by John Michael Romano
+* GitHub: https://github.com/johnromano23
