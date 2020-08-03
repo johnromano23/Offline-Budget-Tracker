@@ -4,6 +4,11 @@ This application allows users to be able to add income or subtract expenses to t
 ## Application
 Heroku link: https://budget-tracker-jr.herokuapp.com/
 
+## Screenshots
+![Budget Tracker - Google Chrome 8_3_2020 3_29_37 PM](https://user-images.githubusercontent.com/63254285/89220149-152cdf00-d59f-11ea-9954-3d4c2ea931fd.png)
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+![Budget Tracker - Google Chrome 8_3_2020 3_30_34 PM](https://user-images.githubusercontent.com/63254285/89220161-1827cf80-d59f-11ea-8665-275f9ce01dfc.png)
+
 ## Technology Used 
 * Mongo DB
 * Mongoose
